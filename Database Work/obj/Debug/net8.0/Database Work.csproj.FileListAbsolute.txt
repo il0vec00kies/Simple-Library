@@ -1,0 +1,55 @@
+C:\Users\User\source\repos\Database Work\Database Work\bin\Debug\net8.0\Database Work.exe
+C:\Users\User\source\repos\Database Work\Database Work\bin\Debug\net8.0\Database Work.deps.json
+C:\Users\User\source\repos\Database Work\Database Work\bin\Debug\net8.0\Database Work.runtimeconfig.json
+C:\Users\User\source\repos\Database Work\Database Work\bin\Debug\net8.0\Database Work.dll
+C:\Users\User\source\repos\Database Work\Database Work\bin\Debug\net8.0\Database Work.pdb
+C:\Users\User\source\repos\Database Work\Database Work\obj\Debug\net8.0\Database Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Database Work\Database Work\obj\Debug\net8.0\Database Work.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Database Work\Database Work\obj\Debug\net8.0\Database Work.AssemblyInfo.cs
+C:\Users\User\source\repos\Database Work\Database Work\obj\Debug\net8.0\Database Work.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Database Work\Database Work\obj\Debug\net8.0\Database Work.dll
+C:\Users\User\source\repos\Database Work\Database Work\obj\Debug\net8.0\refint\Database Work.dll
+C:\Users\User\source\repos\Database Work\Database Work\obj\Debug\net8.0\Database Work.pdb
+C:\Users\User\source\repos\Database Work\Database Work\obj\Debug\net8.0\Database Work.genruntimeconfig.cache
+C:\Users\User\source\repos\Database Work\Database Work\obj\Debug\net8.0\ref\Database Work.dll
+C:\Users\User\source\repos\Database Work\Database Work\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\Database Work\Database Work\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\Database Work\Database Work\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\Database Work\Database Work\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\Database Work\Database Work\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\Database Work\Database Work\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\Database Work\Database Work\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\Database Work\Database Work\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\Database Work\Database Work\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\Database Work\Database Work\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\Database Work\Database Work\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\Database Work\Database Work\obj\Debug\net8.0\Database Work.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Database Work\Database Work\obj\Debug\net8.0\Database.2D1A1A71.Up2Date
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\bin\Debug\net8.0\Database Work.exe
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\bin\Debug\net8.0\Database Work.dll.config
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\bin\Debug\net8.0\Database Work.deps.json
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\bin\Debug\net8.0\Database Work.runtimeconfig.json
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\bin\Debug\net8.0\Database Work.dll
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\bin\Debug\net8.0\Database Work.pdb
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\obj\Debug\net8.0\Database Work.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\obj\Debug\net8.0\Database Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\obj\Debug\net8.0\Database Work.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\obj\Debug\net8.0\Database Work.AssemblyInfo.cs
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\obj\Debug\net8.0\Database Work.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\obj\Debug\net8.0\Database.2D1A1A71.Up2Date
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\obj\Debug\net8.0\Database Work.dll
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\obj\Debug\net8.0\refint\Database Work.dll
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\obj\Debug\net8.0\Database Work.pdb
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\obj\Debug\net8.0\Database Work.genruntimeconfig.cache
+C:\Users\User\source\repos\Personal Projects\Database Work\Database Work\obj\Debug\net8.0\ref\Database Work.dll
